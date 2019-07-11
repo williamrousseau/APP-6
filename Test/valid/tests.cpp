@@ -16,7 +16,7 @@ void Tests::tests_unitaires_formes()
    // *****AJOUT DE LA FORME******
    Coordonnee rec;
    Coordonnee testrec;
-   rec.x=2;
+   rec.x=3;
    rec.y=4;			
    Rectangle box;
    box.setWidth(4);
